@@ -38,3 +38,10 @@ google-visualization-table-table th, .google-visualization-table-table td {
 .google-visualization-table-tr-sel td, .google-visualization-table-tr-over td {
     background-color:#474646 !important;
 }
+
+.google-visualization-table-td-number {
+    text-align: center !important;
+    white-space: nowrap;
+}
+td:nth-child(2) { text-align: center; }
+
